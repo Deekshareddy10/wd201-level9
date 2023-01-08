@@ -1,0 +1,11 @@
+body {
+font-family: sans-serif;
+background: white;
+}
+
+.Todo-Item:hover .trash-icon{
+  display:block;
+}
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
